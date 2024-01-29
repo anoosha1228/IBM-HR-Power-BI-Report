@@ -1,4 +1,4 @@
-# IMB HR Power BI Report Readme
+# IBM HR Power BI Report Readme
 
 ![text_image](report_img.JPG)
 
