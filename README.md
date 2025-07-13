@@ -20,6 +20,10 @@ This Power BI report provides a comprehensive analysis of employee data, focusin
 
 ## Data Source
 
+🔗 [Click here for the dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+## Data Specifications
+
 The report is powered by a dataset containing employee information. The dataset includes fields such as age, salary, job satisfaction, department, and education. The dataset serves as the foundation for generating insights and visualizations in Power BI.
 
 ## Pages
