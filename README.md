@@ -26,6 +26,43 @@ This Power BI report provides a comprehensive analysis of employee data, focusin
 
 The report is powered by a dataset containing employee information. The dataset includes fields such as age, salary, job satisfaction, department, and education. The dataset serves as the foundation for generating insights and visualizations in Power BI.
 
+## 📊 KPIs
+
+This dashboard/project tracks several key performance indicators (KPIs) to analyze employee data and attrition trends effectively:
+
+1. **👥 Total Employees**  
+   - Measures the total number of employees in the dataset, including current and former staff.
+
+2. **💰 Average Salary**  
+   - Calculates the mean salary across all roles and departments to understand compensation trends.
+
+3. **⚖️ Gender Ratio**  
+   - Shows the proportion of male to female employees (and other genders if applicable), helping assess diversity.
+
+4. **⏳ Average Tenure**  
+   - Computes the average number of years employees have spent at the company to assess retention.
+
+5. **🎓 Education & Demographics Breakdown**  
+   - Analyzes distributions based on:
+     - Education levels (e.g., Bachelor's, Master's, PhD)
+     - Age groups (e.g., 20–30, 31–40, 41–50)
+     - Additional demographics where available
+
+6. **📉 Attrition Rate by Age Group**  
+   - Evaluates how employee departure rates vary across different age ranges.
+
+7. **📆 Attrition Rate by Tenure**  
+   - Analyzes employee attrition based on the number of years they’ve worked at the company.
+
+8. **🎓 Attrition Rate by Education Level**  
+   - Compares attrition percentages across educational qualifications to find correlations with retention.
+
+9. **🏢 Attrition Rate by Department**  
+   - Breaks down attrition rates by department to identify areas with higher employee turnover.
+
+These KPIs help uncover insights that can inform strategic decisions in talent management, hiring, retention, and organizational development.
+
+
 ## Pages
 
 ### General
